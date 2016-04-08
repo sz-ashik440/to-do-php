@@ -1,0 +1,21 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.headAlign{
+    text-align: center;
+}
+
+.center-all{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.to-do-table{
+    margin-top: 10px;
+}
+
+.td-width{
+    width: 8%;
+}
